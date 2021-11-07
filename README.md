@@ -16,4 +16,4 @@ Wʜᴏ Aᴍ I = ['Cᴏᴅɪɴɢ = ❣️']
 Aɢᴇ = "❌"
 ```
 
-thub-readme-stats.vercel.app/api/top-langs/?username==radical)
+
